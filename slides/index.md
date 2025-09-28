@@ -10,8 +10,8 @@ paginate: true
 
 ## Quiz Time
 
-Scansiona il qr code o vai al link: <a href="https://www.menti.com/ale4b9ts9usg">https://www.menti.com/ale4b9ts9usg</a>
-<!--<a href="https://www.menti.com/al6r1r4uzzm2">https://www.menti.com/al6r1r4uzzm2</a>-->
+Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2">https://www.menti.com/al6r1r4uzzm2</a>
+<!-- <a href="https://www.menti.com/ale4b9ts9usg">https://www.menti.com/ale4b9ts9usg</a> -->
 
 <img src="./res/test_qr_code.png" alt="QR Code" width="30%">
 <!-- <img src="./res/mentimeter_qr_code.png" alt="QR Code" width="30%"> -->
