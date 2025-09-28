@@ -17,6 +17,9 @@ paginate: true
 
 <section style="display: flex;">
   <img src="./res/naso.jpg" alt="Naso" width="30%">
+  <img src="./res/succo.jpg" alt="Succo" width="30%" style="visibility: hidden">
+  <img src="./res/topo.jpg" alt="Topo" width="30%" style="visibility: hidden">
+  <img src="./res/jeep.jpg" alt="Jeep" width="30%" style="visibility: hidden">
 </section>
 
 ---
@@ -24,6 +27,8 @@ paginate: true
 <section style="display: flex;">
   <img src="./res/naso.jpg" alt="Naso" width="30%">
   <img src="./res/succo.jpg" alt="Succo" width="30%">
+  <img src="./res/topo.jpg" alt="Topo" width="30%" style="visibility: hidden">
+  <img src="./res/jeep.jpg" alt="Jeep" width="30%" style="visibility: hidden">
 </section>
 
 ---
@@ -31,7 +36,8 @@ paginate: true
 <section style="display: flex;">
   <img src="./res/naso.jpg" alt="Naso" width="30%">
   <img src="./res/succo.jpg" alt="Succo" width="30%">
-  <img src="./res/topo.jpg" alt="Succo" width="30%">
+  <img src="./res/topo.jpg" alt="Topo" width="30%">
+  <img src="./res/jeep.jpg" alt="Jeep" width="30%" style="visibility: hidden">
 </section>
 
 ---
