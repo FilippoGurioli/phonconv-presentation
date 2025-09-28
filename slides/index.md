@@ -125,7 +125,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ## 1 - T,D | Suoni Dentali
 
-<section style="display: flex; justify-content: center; align-items: center; height: 100%;">
+<section style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 3%;">
   <img src="./res/1.png" alt="Numero 1" width="20%">
   <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
   <img src="./res/T.png" alt="Lettera T" width="20%">
@@ -135,10 +135,10 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ## 2 - N, GN | Suoni Nasali
 
-<section style="display: flex; justify-content: center; align-items: center; height: 100%;">
+<section style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 3%;">
   <img src="./res/2.png" alt="Numero 2" width="20%">
   <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
-  <img src="./res/2.png" alt="Numero 2 Ruotato" width="20%" style="transform: rotate(-90deg);">
+  <img src="./res/2.png" alt="Numero 2 Ruotato" width="20%" style="transform: rotate(90deg);">
   <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
   <img src="./res/N.png" alt="Lettera N" width="20%">
 </section>
@@ -147,7 +147,13 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ## 3 - M | Suono Mugolante
 
-<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+<section style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 3%;">
+  <img src="./res/3.png" alt="Numero 3" width="20%">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+  <img src="./res/3.png" alt="Numero 3 Ruotato" width="20%" style="transform: rotate(90deg);">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+  <img src="./res/M.png" alt="Lettera M" width="20%">
+</section>
 
 ---
 
