@@ -106,6 +106,8 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 - Pratica
 - Pisello
 
+---
+
 ## Codice fonetico
 
 1 = T,D
@@ -118,3 +120,65 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 8 = F, V
 9 = P, B
 0 = S, Z, SH
+
+---
+
+## 1 - T,D | Suoni Dentali
+
+<img src="./res/1.png" alt="Numero 1" width="20%">
+<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+<img src="./res/T.png" alt="Lettera T" width="20%">
+
+---
+
+## 2 - N, GN | Suoni Nasali
+
+<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+
+---
+
+## 3 - M | Suono Mugolante
+
+<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+
+---
+
+## 4 - R | Suono Vibrante
+
+<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+
+---
+
+## 5 - L, GL | Suoni Liquidi
+
+<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+
+---
+
+## 6 - CI, GI | Suoni Palatali
+
+<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+
+---
+
+## 7 - K, G | Suoni Velari Gutturali
+
+<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+
+---
+
+## 8 - V, F | Suoni Labiodentali
+
+<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+
+---
+
+## 9 - P, B | Suoni Labbiali
+
+<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+
+---
+
+## 0 - S, Z, SH | Suoni Sibilanti
+
+<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
