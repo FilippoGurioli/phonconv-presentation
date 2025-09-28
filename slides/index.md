@@ -72,9 +72,41 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ---
 
+<section style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <img src="./res/question-mark.jpg" alt="Punto di Domanda" width="50%">
+</section>
+
+---
+
 # Conversione Fonetica
 
 ---
+
+## Introduzione
+
+- Tecnica di memoria
+- Istanza particolare del **Link Method**
+- Migliorabile con il **Palazzo della Memoria**
+
+---
+
+## Perchè
+
+- Numero di telefono
+- Password
+- Targhe
+- Date
+- Altro
+
+---
+
+## Requisiti
+
+- Pazienza
+- Pratica
+- Pisello
+
+## Codice fonetico
 
 1 = T,D
 2 = N, GN
