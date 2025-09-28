@@ -4,17 +4,6 @@ theme: material
 paginate: true
 ---
 
-# Conversione Fonetica
-
----
-
-<!-- 20071969 -->
-
-<!-- 20 -> N/GN, S/Z/SH -> naso
-07 -> S/Z/SH, K/G -> succo
-19 -> T/D, P/B -> topo
-69 -> CI/GI, P/B -> Jeep -->
-
 <section style="display: flex;">
   <img src="./res/naso.jpg" alt="Naso" width="30%">
   <img src="./res/succo.jpg" alt="Succo" width="30%" style="visibility: hidden">
@@ -80,6 +69,10 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
   </iframe>
   <!-- src='https://www.mentimeter.com/app/presentation/alzs5gc6ebdcs5kvt2ofszgwkvhtme2r/embed' -->
 </div>
+
+---
+
+# Conversione Fonetica
 
 ---
 
