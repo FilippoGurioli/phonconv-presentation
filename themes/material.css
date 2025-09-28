@@ -42,7 +42,7 @@ section {
 }
 
 section::after {
-  content: attr(data-marpit-pagination);
+  content: "Filippo Gurioli | " attr(data-marpit-pagination);
   position: absolute;
   bottom: 10px;
   right: 20px;
