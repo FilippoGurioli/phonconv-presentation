@@ -35,6 +35,9 @@ jobs:
               -o "public/$name.html"
           done
 
+      - name: Copy static assets
+        run: cp -r ./res ./public/res
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
