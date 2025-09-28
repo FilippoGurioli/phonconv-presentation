@@ -15,25 +15,33 @@ paginate: true
 19 -> T/D, P/B -> topo
 69 -> CI/GI, P/B -> Jeep -->
 
-<img src="./res/naso.jpg" alt="Naso" width="30%">
+<section style="display: flex;">
+  <img src="./res/naso.jpg" alt="Naso" width="30%">
+</section>
 
 ---
 
-<img src="./res/naso.jpg" alt="Naso" width="30%">
-<img src="./res/succo.jpg" alt="Succo" width="30%">
+<section style="display: flex;">
+  <img src="./res/naso.jpg" alt="Naso" width="30%">
+  <img src="./res/succo.jpg" alt="Succo" width="30%">
+</section>
 
 ---
 
-<img src="./res/naso.jpg" alt="Naso" width="30%">
-<img src="./res/succo.jpg" alt="Succo" width="30%">
-<img src="./res/topo.jpg" alt="Succo" width="30%">
+<section style="display: flex;">
+  <img src="./res/naso.jpg" alt="Naso" width="30%">
+  <img src="./res/succo.jpg" alt="Succo" width="30%">
+  <img src="./res/topo.jpg" alt="Succo" width="30%">
+</section>
 
 ---
 
-<img src="./res/naso.jpg" alt="Naso" width="30%">
-<img src="./res/succo.jpg" alt="Succo" width="30%">
-<img src="./res/topo.jpg" alt="Topo" width="30%">
-<img src="./res/jeep.jpg" alt="Jeep" width="30%">
+<section style="display: flex;">
+  <img src="./res/naso.jpg" alt="Naso" width="30%">
+  <img src="./res/succo.jpg" alt="Succo" width="30%">
+  <img src="./res/topo.jpg" alt="Topo" width="30%">
+  <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+</section>
 
 ---
 
