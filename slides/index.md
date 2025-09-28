@@ -8,9 +8,11 @@ paginate: true
 
 ---
 
-## Quando è caduto l'Impero Romano d'Occidente?
+## Quiz Time
 
-<a href="https://form.typeform.com/to/b33IR63l">https://form.typeform.com/to/b33IR63l</a>
+Scansiona il qr code o vai al link: <a href="https://form.typeform.com/to/b33IR63l">https://form.typeform.com/to/b33IR63l</a>
+
+![QR Code](https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fform.typeform.com%2Fto%2Fb33IR63l&chs=180x180&choe=UTF-8&chld=L|2)
 
 ---
 
