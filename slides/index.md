@@ -27,6 +27,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
     height: 0;
     overflow: hidden;'>
   <iframe
+    sandbox='allow-scripts allow-same-origin allow-presentation'
     allowfullscreen='true'
     allowtransparency='true'
     frameborder='0'
