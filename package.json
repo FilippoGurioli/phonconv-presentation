@@ -1,0 +1,12 @@
+{
+  "name": "phonconv-presentation",
+  "version": "0.1.0",
+  "description": "Presentation of the Phonetic Conversion System",
+  "license": "ISC",
+  "author": "Filippo Gurioli",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
