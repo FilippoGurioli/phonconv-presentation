@@ -2,6 +2,7 @@
 marp: true
 theme: material
 paginate: true
+footer: Filippo Gurioli | Phonetic Conversion | [GitHub](https://github.com/FilippoGurioli/phonconv-presentation) | \{{page}}/\{{total}}
 ---
 
 # 🚀 My First Material Slides
