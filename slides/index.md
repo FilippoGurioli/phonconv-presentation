@@ -12,7 +12,7 @@ paginate: true
 
 Scansiona il qr code o vai al link: <a href="https://www.menti.com/ale4b9ts9usg">https://www.menti.com/ale4b9ts9usg</a>
 
-![QR Code](./res/mentimeter_qr_code.png)
+<img src="./res/mentimeter_qr_code.png" alt="QR Code" width="30%">
 
 ---
 
