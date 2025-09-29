@@ -73,7 +73,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 ---
 
 <section style="display: flex; justify-content: center; align-items: center; height: 100%;">
-  <img src="./res/question-mark.jpg" alt="Punto di Domanda" width="50%">
+  <img src="./res/question-mark.jpg" alt="Punto di Domanda" width="40%">
 </section>
 
 ---
