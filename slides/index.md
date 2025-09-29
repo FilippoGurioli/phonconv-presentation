@@ -193,22 +193,46 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ## 7 - K, G | Suoni Velari Gutturali
 
-<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+<section style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 3%;">
+  <img src="./res/7.png" alt="Numero 7" width="20%">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+  <img src="./res/6.png" alt="Numero 6" width="20%">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+  <img src="./res/K.png" alt="Lettera K" width="20%">
+</section>
 
 ---
 
 ## 8 - V, F | Suoni Labiodentali
 
-<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+<section style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 3%;">
+  <img src="./res/8.png" alt="Numero 8" width="20%">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+  <img src="./res/F-corsivo.png" alt="Lettera F in corsivo" width="20%">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+  <img src="./res/F.png" alt="Lettera F" width="20%">
+</section>
 
 ---
 
 ## 9 - P, B | Suoni Labbiali
 
-<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+<section style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 3%;">
+  <img src="./res/9.png" alt="Numero 9" width="20%">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+  <img src="./res/9.png" alt="Numero 9 Specchiato" width="20%" style="transform: scaleX(-1);">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+  <img src="./res/P.png" alt="Lettera P" width="20%">
+</section>
 
 ---
 
 ## 0 - S, Z, SH | Suoni Sibilanti
 
-<img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+<section style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 3%;">
+  <img src="./res/0.png" alt="Numero 0" width="20%">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+  <img src="./res/ouroboros.avif" alt="Ouroboros" width="20%">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
+  <img src="./res/S.png" alt="Lettera S" width="20%">
+</section>
