@@ -85,6 +85,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 ## Introduzione
 
 - Tecnica di memoria
+- Associa i **numeri** a **suoni**
 - Istanza particolare del **Link Method**
 - Migliorabile con il **Palazzo della Memoria**
 
@@ -243,6 +244,35 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ## E ora?
 
-- Ora sappiamo convertire un **numero** in un **suono**
+- Abbiamo imparato a convertire un **numero** in un **suono**
 - Ora possiamo associare i **suoni** a delle **parole**
 - E infine possiamo associare le **parole** a delle **immagini**
+
+---
+
+## Associare i Suoni alle Parole
+
+- Tutti i numeri sono **suoni consonantici**
+- Le **vocali** le aggiungiamo noi come preferiamo per formare delle parole
+
+### Esempio
+
+- Numero: 23
+- Suoni: N/GN + M
+- Parole: Gnomo, Nome, Noemi, Anima, Nemo, ...
+
+---
+
+## Associare le Parole alle Immagini
+
+- Le immagini devono essere **vivide** e **particolari**
+- Devono essere **facili da ricordare**
+- Devono essere **personali**
+
+### Esempio
+
+- Numero: 3,14159 (Pi greco)
+- Suoni: M + T/D + R + T/D + L/GL + P/B
+- Coppie: (M + T/D) + (R + T/D) + (L/GL + P/B)
+- Parole: Matto + Ratto + Lubrificante
+- Immagini: **Un matto che mangia un ratto e scivola sul lubrificante**
