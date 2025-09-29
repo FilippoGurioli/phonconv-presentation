@@ -191,7 +191,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ---
 
-## 7 - K, G | Suoni Velari Gutturali
+## 7 - K, G | Suoni Gutturali
 
 <section style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 3%;">
   <img src="./res/7.png" alt="Numero 7" width="20%">
@@ -238,3 +238,11 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
   <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
   <img src="./res/S.png" alt="Lettera S" width="20%">
 </section>
+
+---
+
+## E ora?
+
+- Ora sappiamo convertire un **numero** in un **suono**
+- Ora possiamo associare i **suoni** a delle **parole**
+- E infine possiamo associare le **parole** a delle **immagini**
