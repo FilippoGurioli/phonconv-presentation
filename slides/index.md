@@ -276,3 +276,26 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 - Coppie: (M + T/D) + (R + T/D) + (L/GL + P/B)
 - Parole: Matto + Ratto + Lubrificante
 - Immagini: **Un matto che mangia un ratto e scivola sul lubrificante**
+
+---
+
+## Come si converte?
+
+<section style="display: flex;">
+  <section>
+    <img src="./res/naso.jpg" alt="Naso" width="30%">
+    Naso
+  </section>
+  <section>
+    <img src="./res/succo.jpg" alt="Succo" width="30%">
+    Succo
+  </section>
+  <section>
+    <img src="./res/topo.jpg" alt="Topo" width="30%">
+    Topo
+  </section>
+  <section>
+    <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+    Jeep
+  </section>
+</section>
