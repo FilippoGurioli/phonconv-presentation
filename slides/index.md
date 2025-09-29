@@ -281,7 +281,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ## Come si converte?
 
-<section style="display: flex;">
+<section style="display: flex; align-items: center; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
     <img src="./res/naso.jpg" alt="Naso">
     <p>Naso</p>
@@ -310,7 +310,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ---
 
-<section style="display: flex;">
+<section style="display: flex; align-items: center; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
     <img src="./res/naso.jpg" alt="Naso">
     <p>Naso</p>
@@ -339,7 +339,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ---
 
-<section style="display: flex;">
+<section style="display: flex; align-items: center; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
     <img src="./res/naso.jpg" alt="Naso">
     <p>Naso</p>
@@ -368,7 +368,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ---
 
-<section style="display: flex;">
+<section style="display: flex; align-items: center; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
     <img src="./res/naso.jpg" alt="Naso">
     <p>Naso</p>
@@ -397,7 +397,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ---
 
-<section style="display: flex;">
+<section style="display: flex; align-items: center; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
     <img src="./res/naso.jpg" alt="Naso">
     <p>Naso</p>
