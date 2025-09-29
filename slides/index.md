@@ -196,7 +196,9 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 <section style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 3%;">
   <img src="./res/7.png" alt="Numero 7" width="20%">
   <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
-  <img src="./res/6.png" alt="Numero 6" width="20%">
+  <img src="./res/6.png" alt="Numero 6" width="10%">
+  <img src="./res/right-arrow.png" alt="Freccia Destra" width="5%">
+  <img src="./res/G.png" alt="Lettera G" width="10%">
   <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
   <img src="./res/K.png" alt="Lettera K" width="20%">
 </section>
