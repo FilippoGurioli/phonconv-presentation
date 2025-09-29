@@ -284,18 +284,154 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 <section style="display: flex;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="./res/naso.jpg" alt="Naso" width="30%">
-    Naso
+    <p>Naso</p>
+    <p>N + S</p>
+    <p style="visibility: hidden;">20</p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="./res/succo.jpg" alt="Succo" width="30%">
-    Succo
+    <p>Succo</p>
+    <p>S + K</p>
+    <p style="visibility: hidden;">07</p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="./res/topo.jpg" alt="Topo" width="30%">
-    Topo
+    <p>Topo</p>
+    <p>T + P</p>
+    <p style="visibility: hidden;">19</p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="./res/jeep.jpg" alt="Jeep" width="30%">
-    Jeep
+    <p>Jeep</p>
+    <p>GI + P</p>
+    <p style="visibility: hidden;">69</p>
   </div>
 </section>
+
+---
+
+<section style="display: flex;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/naso.jpg" alt="Naso" width="30%">
+    <p>Naso</p>
+    <p>N + S</p>
+    <p>20</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/succo.jpg" alt="Succo" width="30%">
+    <p>Succo</p>
+    <p>S + K</p>
+    <p style="visibility: hidden;">07</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/topo.jpg" alt="Topo" width="30%">
+    <p>Topo</p>
+    <p>T + P</p>
+    <p style="visibility: hidden;">19</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+    <p>Jeep</p>
+    <p>GI + P</p>
+    <p style="visibility: hidden;">69</p>
+  </div>
+</section>
+
+---
+
+<section style="display: flex;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/naso.jpg" alt="Naso" width="30%">
+    <p>Naso</p>
+    <p>N + S</p>
+    <p>20</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/succo.jpg" alt="Succo" width="30%">
+    <p>Succo</p>
+    <p>S + K</p>
+    <p>07</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/topo.jpg" alt="Topo" width="30%">
+    <p>Topo</p>
+    <p>T + P</p>
+    <p style="visibility: hidden;">19</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+    <p>Jeep</p>
+    <p>GI + P</p>
+    <p style="visibility: hidden;">69</p>
+  </div>
+</section>
+
+---
+
+<section style="display: flex;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/naso.jpg" alt="Naso" width="30%">
+    <p>Naso</p>
+    <p>N + S</p>
+    <p>20</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/succo.jpg" alt="Succo" width="30%">
+    <p>Succo</p>
+    <p>S + K</p>
+    <p>07</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/topo.jpg" alt="Topo" width="30%">
+    <p>Topo</p>
+    <p>T + P</p>
+    <p>19</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+    <p>Jeep</p>
+    <p>GI + P</p>
+    <p style="visibility: hidden;">69</p>
+  </div>
+</section>
+
+---
+
+<section style="display: flex;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/naso.jpg" alt="Naso" width="30%">
+    <p>Naso</p>
+    <p>N + S</p>
+    <p>20</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/succo.jpg" alt="Succo" width="30%">
+    <p>Succo</p>
+    <p>S + K</p>
+    <p>07</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/topo.jpg" alt="Topo" width="30%">
+    <p>Topo</p>
+    <p>T + P</p>
+    <p>19</p>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+    <p>Jeep</p>
+    <p>GI + P</p>
+    <p>69</p>
+  </div>
+</section>
+
+---
+
+## Significato
+
+- 20 07 19 69
+- 20/07/1969
+- Allunaggio!
+
+---
+
+## Grazie
