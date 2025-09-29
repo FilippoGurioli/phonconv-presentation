@@ -424,7 +424,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
   </div>
 </section>
 
-<p style="position: fixed; bottom: 20px; right: 20px; margin: 0;">nice</p>
+<p style="position: fixed; bottom: 40px; right: 40px; margin: 0; font-size: 10px;">nice</p>
 
 ---
 
