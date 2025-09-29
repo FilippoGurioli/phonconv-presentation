@@ -282,26 +282,26 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 ## Come si converte?
 
 <section style="display: flex;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/naso.jpg" alt="Naso" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/naso.jpg" alt="Naso">
     <p>Naso</p>
     <p>N + S</p>
     <p style="visibility: hidden;">20</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/succo.jpg" alt="Succo" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/succo.jpg" alt="Succo">
     <p>Succo</p>
     <p>S + K</p>
     <p style="visibility: hidden;">07</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/topo.jpg" alt="Topo" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/topo.jpg" alt="Topo">
     <p>Topo</p>
     <p>T + P</p>
     <p style="visibility: hidden;">19</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/jeep.jpg" alt="Jeep">
     <p>Jeep</p>
     <p>GI + P</p>
     <p style="visibility: hidden;">69</p>
@@ -311,26 +311,26 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 ---
 
 <section style="display: flex;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/naso.jpg" alt="Naso" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/naso.jpg" alt="Naso">
     <p>Naso</p>
     <p>N + S</p>
     <p>20</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/succo.jpg" alt="Succo" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/succo.jpg" alt="Succo">
     <p>Succo</p>
     <p>S + K</p>
     <p style="visibility: hidden;">07</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/topo.jpg" alt="Topo" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/topo.jpg" alt="Topo">
     <p>Topo</p>
     <p>T + P</p>
     <p style="visibility: hidden;">19</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/jeep.jpg" alt="Jeep">
     <p>Jeep</p>
     <p>GI + P</p>
     <p style="visibility: hidden;">69</p>
@@ -340,26 +340,26 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 ---
 
 <section style="display: flex;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/naso.jpg" alt="Naso" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/naso.jpg" alt="Naso">
     <p>Naso</p>
     <p>N + S</p>
     <p>20</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/succo.jpg" alt="Succo" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/succo.jpg" alt="Succo">
     <p>Succo</p>
     <p>S + K</p>
     <p>07</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/topo.jpg" alt="Topo" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/topo.jpg" alt="Topo">
     <p>Topo</p>
     <p>T + P</p>
     <p style="visibility: hidden;">19</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/jeep.jpg" alt="Jeep">
     <p>Jeep</p>
     <p>GI + P</p>
     <p style="visibility: hidden;">69</p>
@@ -369,26 +369,26 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 ---
 
 <section style="display: flex;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/naso.jpg" alt="Naso" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/naso.jpg" alt="Naso">
     <p>Naso</p>
     <p>N + S</p>
     <p>20</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/succo.jpg" alt="Succo" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/succo.jpg" alt="Succo">
     <p>Succo</p>
     <p>S + K</p>
     <p>07</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/topo.jpg" alt="Topo" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/topo.jpg" alt="Topo">
     <p>Topo</p>
     <p>T + P</p>
     <p>19</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/jeep.jpg" alt="Jeep">
     <p>Jeep</p>
     <p>GI + P</p>
     <p style="visibility: hidden;">69</p>
@@ -398,26 +398,26 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 ---
 
 <section style="display: flex;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/naso.jpg" alt="Naso" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/naso.jpg" alt="Naso">
     <p>Naso</p>
     <p>N + S</p>
     <p>20</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/succo.jpg" alt="Succo" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/succo.jpg" alt="Succo">
     <p>Succo</p>
     <p>S + K</p>
     <p>07</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/topo.jpg" alt="Topo" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/topo.jpg" alt="Topo">
     <p>Topo</p>
     <p>T + P</p>
     <p>19</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./res/jeep.jpg" alt="Jeep" width="30%">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 25%;">
+    <img src="./res/jeep.jpg" alt="Jeep">
     <p>Jeep</p>
     <p>GI + P</p>
     <p>69</p>
@@ -428,10 +428,14 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 
 ## Significato
 
-- 20 07 19 69
+- 20-07-19-69
 - 20/07/1969
 - Allunaggio!
 
 ---
 
-## Grazie
+## Come continuare
+
+- Allenamento
+- Palazzo della memoria
+- Catalogo delle conversioni da 00 a 99
