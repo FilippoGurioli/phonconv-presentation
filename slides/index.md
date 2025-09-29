@@ -253,7 +253,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 ## Associare i Suoni alle Parole
 
 - Tutti i numeri sono **suoni consonantici**
-- Le **vocali** le aggiungiamo noi come preferiamo per formare delle parole
+- Le **vocali** le aggiungiamo noi come preferiamo per formare delle **parole**
 
 ### Esempio
 
