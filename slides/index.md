@@ -282,20 +282,20 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
 ## Come si converte?
 
 <section style="display: flex;">
-  <section>
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="./res/naso.jpg" alt="Naso" width="30%">
     Naso
-  </section>
-  <section>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="./res/succo.jpg" alt="Succo" width="30%">
     Succo
-  </section>
-  <section>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="./res/topo.jpg" alt="Topo" width="30%">
     Topo
-  </section>
-  <section>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="./res/jeep.jpg" alt="Jeep" width="30%">
     Jeep
-  </section>
+  </div>
 </section>
