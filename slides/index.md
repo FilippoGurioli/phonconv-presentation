@@ -176,7 +176,7 @@ Scansiona il qr code o vai al link: <a href="https://www.menti.com/al6r1r4uzzm2"
   <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
   <img src="./res/mano.jpg" alt="Mano" width="20%" style="transform: scaleX(-1);">
   <img src="./res/right-arrow.png" alt="Freccia Destra" width="10%">
-  <img src="./res/R.png" alt="Lettera R" width="20%">
+  <img src="./res/L.png" alt="Lettera R" width="20%">
 </section>
 
 ---
